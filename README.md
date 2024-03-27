@@ -5,7 +5,7 @@
 If you play the game, please send us feedback with comments and suggestions. We have come a long way, but we are interested in any form of input.
 
 ## How to print
-The files should be working for both A4 and letter size paper - just make sure you print att 100% scale. The map, the stock market and the phase board with the train and ship cards is in A3 size, but you can split them if you have to.
+The files should be working for both A4 and letter size paper - just make sure you print att 100% scale. The map, the stock market and the phase board with the train and ship cards is in A3 or Tabloid Size, but you can split them into A4/Letterif you have to.
 
 The certificates and train and ship cards are fine in 100% scale, but they can be printed in 105% scale on A4 if you prefer a little bigger cards (with 105% they become about 44x67mm). I don't think 105% works on letter paper.
 
