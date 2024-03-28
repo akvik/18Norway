@@ -16,7 +16,7 @@ The certificates and train and ship cards are fine in 100% scale, but they can b
 
 The big map board comes in one pdf, you need to print it in software that permits printing a poster. Four A3 sheets works just fine. Make sure to print at 100% scale, or the same scale as you print the tiles. At 100% you get the standard size for the tiles (1.5 side-to-side) and the map. There is a low-ink version of the map for those that prefer a more minimalistic look or just want to save ink. They have otherwise equal game-wise, so you don't have to print both!
 
-I prefer to print on A4 adhesive paper and then mount on a little thicker paper to get the card feeling, but you can also laminate or do whatever you prefer.
+I prefer to print on A4 adhesive paper and then mount on a little thicker paper to get the card feeling, but you can also laminate or do whatever you prefer. In any case, I strongly recommend you use a rotary cutter to cut the cards and tiles - once you've gotten used to those nice cuts there is no going back.
 
 ## License
 Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
