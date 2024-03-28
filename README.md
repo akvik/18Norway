@@ -1,6 +1,11 @@
 # 18Norway
 18Norway is an 18XX game based on Francis Tresham’s 1829, and follows the development of the Norwegian railroad from 1854 onward. You will be dealing with harsh weather and difficult terrain as you build your track across hills and mountains and around the fjords along the jagged North Sea coast line. All the while, companies have to take the inevitable nationalization into account. - [link to BoardGameGeek entry](https://boardgamegeek.com/boardgame/394787/18norway)
 
+## Revision history
+We will list changes here to make it easier for folks with pnps to adjust their already printed copies. 
+
+28 March 2024: initial upload
+
 ## Give feedback
 If you play the game, please send us feedback with comments and suggestions. We have come a long way, but we are interested in any form of input.
 
