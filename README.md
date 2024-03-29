@@ -8,7 +8,8 @@ We will list changes here to make it easier for folks with pnps to adjust their 
 - Added 50 to the green T tile (T1).
 - Added correct price on D-trains on company charters. From 850 to 900.
 
-28 March 2024: initial upload
+28 March 2024: 
+- Initial upload.
 
 ## Give feedback
 If you play the game, please send us feedback with comments and suggestions. We have come a long way, but we are interested in any form of input.
