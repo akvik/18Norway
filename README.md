@@ -8,6 +8,7 @@ We will list changes here to make it easier for folks with pnps to adjust their 
 - Added 50 to the green T tile (T1).
 - Added correct price on D-trains on company charters. From 850 to 900.
 - Made Jærbanen's token prices on the charter clearer.
+- Corrected from SB to S on Sørlandsbanen's company charter.
 
 28 March 2024: 
 - Initial upload.
