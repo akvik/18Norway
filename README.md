@@ -5,7 +5,8 @@
 We will list changes here to make it easier for folks with pnps to adjust their already printed copies. 
 
 30 March 2024:
-- Brown S tile "S1" lost on sheet, now it's back again.
+- tile number "442" lost on sheet, now it's back.
+- Brown S tile "S1" lost on sheet, now it's back.
 
 29 March 2024:
 - Added 50 to the green T tile (T1).
