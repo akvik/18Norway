@@ -4,6 +4,9 @@
 ## Revision history
 We will list changes here to make it easier for folks with pnps to adjust their already printed copies. 
 
+13 April 2024:
+- swapped numbers on tile #8 and #9 on the tile upgrade chart.
+
 30 March 2024:
 - tile number "442" lost on sheet, now it's back.
 - Brown S tile "S1" lost on sheet, now it's back.
