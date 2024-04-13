@@ -6,6 +6,7 @@ We will list changes here to make it easier for folks with pnps to adjust their 
 
 13 April 2024:
 - swapped numbers on tile #8 and #9 on the tile upgrade chart.
+- clarifications and corrections in the rulebook.
 
 30 March 2024:
 - tile number "442" lost on sheet, now it's back.
