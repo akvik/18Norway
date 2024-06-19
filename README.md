@@ -4,21 +4,24 @@
 ## Revision history
 We will list changes here to make it easier for folks with pnps to adjust their already printed copies. 
 
-13 April 2024:
+June 19 2024:
+- Fixed typo in the train roster on the company charters.
+
+April 13 2024:
 - swapped numbers on tile #8 and #9 on the tile upgrade chart.
 - clarifications and corrections in the rulebook.
 
-30 March 2024:
+March 30 2024:
 - tile number "442" lost on sheet, now it's back.
 - Brown S tile "S1" lost on sheet, now it's back.
 
-29 March 2024:
+March 29 2024:
 - Added 50 to the green T tile (T1).
 - Added correct price on D-trains on company charters. From 850 to 900.
 - Made Jærbanen's token prices on the charter clearer.
 - Corrected from SB to S on Sørlandsbanen's company charter.
 
-28 March 2024: 
+March 28 2024: 
 - Initial upload.
 
 ## Give feedback
