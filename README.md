@@ -4,6 +4,9 @@
 ## Revision history
 We will list changes here to make it easier for folks with pnps to adjust their already printed copies. 
 
+August 10 2024:
+- Fixed issues 24,25,26,28, and 30.
+
 June 19 2024:
 - Fixed typo in the train roster on the company charters.
 
