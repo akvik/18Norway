@@ -6,6 +6,7 @@ We will list changes here to make it easier for folks with pnps to adjust their 
 
 August 23 2024
 - Preprinted Oslo tile no longer have a track segment to the south.
+- There are now two versions of the color map and the low ink map - one full map and another tiled as 4 x A3(or Tabloid) for easier printing for those that doesn't have Adobe Acrobat or similar. You only need to print one of these versions.
 
 August 12 2024
 - Fixed issue #29.
