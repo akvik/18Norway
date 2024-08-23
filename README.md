@@ -4,6 +4,9 @@
 ## Revision history
 We will list changes here to make it easier for folks with pnps to adjust their already printed copies. 
 
+August 23 2024
+- Preprinted Oslo tile no longer have a track segment to the south.
+
 August 12 2024
 - Fixed issue #29.
 
