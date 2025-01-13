@@ -4,6 +4,10 @@
 ## Revision history
 We will list changes here to make it easier for folks with pnps to adjust their already printed copies. 
 
+January 11 2025
+- Revised rulebook - rules on emergency funding, and grammar in general.
+- revised numbers to 7-5-3 instead of 8-8-8 on the ship charter (minor change).
+
 August 23 2024
 - Preprinted Oslo tile no longer have a track segment to the south.
 - There are now two versions of the color map and the low ink map - one full map and another tiled as 4 x A3(or Tabloid) for easier printing for those that doesn't have Adobe Acrobat or similar. You only need to print one of these versions.
