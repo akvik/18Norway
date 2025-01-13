@@ -4,6 +4,10 @@
 ## Revision history
 We will list changes here to make it easier for folks with pnps to adjust their already printed copies. 
 
+January 13 2025
+- Removed negative funds win condition as it contradicts the bankruptcy rules.
+- Revised wording on player bankrupcty.
+
 January 11 2025
 - Revised rulebook - rules on emergency funding, and grammar in general.
 - revised numbers to 7-5-3 instead of 8-8-8 on the ship charter (minor change).
