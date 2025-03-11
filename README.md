@@ -4,6 +4,10 @@
 ## Revision history
 We will list changes here to make it easier for folks with pnps to adjust their already printed copies. 
 
+March 11 2025
+- Coordinates on maps, charters, rulebook and P1 updated to match the coordinates on 18xx.games. This update is minor and not required if you already have a copy.
+- Added a Priority Deal card.
+
 January 13 2025
 - Removed negative funds win condition as it contradicts the bankruptcy rules.
 - Revised wording on player bankrupcty.
